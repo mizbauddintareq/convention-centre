@@ -6,6 +6,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 /* Utilities Styles Ends */
+/* Package Section Styles Starts */
 .hot-card {
   position: relative;
 }
@@ -14,6 +15,8 @@ body {
   left: 80%;
   top: -3%;
 }
+/* Package Section Styles Ends */
+
 @media only screen and (max-width: 688px) {
   .carousel-item img {
     width: 100%;
